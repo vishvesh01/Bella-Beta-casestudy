@@ -32,6 +32,8 @@ The dataset consists of date column which is not formatted properly. So, it shou
 it must be combined to make it daily data. 
 The datasets are available as different file for different time frame. These datasets should be combined for analysis.
 
+Cleaned data: [Processed FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/vishvesh01/bella-beta-data)
+
 ### Analysis and Visualization
 After cleaning and formatting data, a new dataset is formed from other datasets through JOINS in SQL. Datapoints from this dataset are analyzed and it can be seen that customers are using the product for tracking 
 their physical activity. By observing the relation between different parameters, it is also observed that there is linear relation between calories or steps taken and sleep score.
